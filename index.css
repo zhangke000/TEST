@@ -1,0 +1,29 @@
+p {
+    background: red;
+}
+
+p.test {
+    background: yellow;
+}
+
+p span {
+    background: orange;
+}
+
+p .bleh {
+    background: purple;
+}
+
+p #bloo {
+    background: grey;
+}
+
+.two {
+    background: blue;
+}
+
+#three {
+    background: green;
+}
+
+
